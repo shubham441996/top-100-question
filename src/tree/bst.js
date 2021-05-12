@@ -60,3 +60,4 @@ bst.insert(1);
 bst.insert(3);
 //console.log(bst);
 console.log(bst.find(4));
+module.exports = { bst };
